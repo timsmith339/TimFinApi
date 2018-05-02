@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "mongoatlas": {
+    "host": "cluster0-shard-00-00-s44yq.mongodb.net",
+    "port": 27017,
+    "url": "mongodb://tim:Iampeachy01!@cluster0-shard-00-00-s44yq.mongodb.net:27017,cluster0-shard-00-01-s44yq.mongodb.net:27017,cluster0-shard-00-02-s44yq.mongodb.net:27017/test?ssl=true&replicaSet=Cluster0-shard-0&authSource=admin",
+    "database": "timfinapi",
+    "password": "Iampeachy01!",
+    "name": "mongoatlas",
+    "user": "tim",
+    "connector": "mongodb"
+  }
+}
