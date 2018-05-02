@@ -8,6 +8,7 @@
   "scripts": {
     "lint": "eslint .",
     "start": "node .",
+    "deploy": "git push heroku master",
     "posttest": "npm run lint && nsp check"
   },
   "dependencies": {
