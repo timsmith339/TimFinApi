@@ -42,5 +42,9 @@
   "Category": {
     "dataSource": "mongoatlas",
     "public": true
+  },
+  "Transaction": {
+    "dataSource": "mongoatlas",
+    "public": true
   }
 }
